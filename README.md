@@ -1,4 +1,4 @@
-![z7267419769174_36a9739c1e08c9311e6fb463d8190692](https://github.com/user-attachments/assets/0ba7e5d9-1d8c-4777-9776-32acf0ad6f1c)# 📘 Advanced Calculator — Flutter
+📘 Advanced Calculator — Flutter
 
 Một ứng dụng máy tính nâng cao được xây dựng bằng **Flutter**, hỗ trợ **Basic Mode, Scientific Mode, Programmer Mode** với UI hiện đại, state management dùng **Provider** và biểu thức toán học mạnh mẽ.
 
